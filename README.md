@@ -2,4 +2,4 @@
 
 ## Descripción general del proyecto
 
-Sistema de Noticias usando Ionic...
+Sistema de Noticias usando Ionic
